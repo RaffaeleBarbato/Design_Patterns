@@ -2,4 +2,13 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.io.Serializable"/>
     <fullyQualifiedTypeName name="SquareToRectangleAdapter"/>
+    <fullyQualifiedTypeName name="Animal"/>
+    <fullyQualifiedTypeName name="AnimalEnum"/>
+    <fullyQualifiedTypeName name="AnimalFactory"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="shopping.Scarpe"/>
+    <fullyQualifiedTypeName name="shopping.Commesso"/>
+    <fullyQualifiedTypeName name="shopping.ScarpeGinnastica"/>
+    <fullyQualifiedTypeName name="shopping.ScarpeTennis"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
